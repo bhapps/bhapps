@@ -1,6 +1,6 @@
 <div align="right">
 <a href="https://github.com/bhapps">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=ba025a&text_color=c70361&icon_color=c70361&bg_color=1d6fcc&hide=contribs,prs" alt="BH Apps" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=1d6fcc&text_color=1d6fcc&icon_color=1d6fcc&bg_color=c70361&hide=contribs,prs" alt="BH Apps" />
 </a>
 </div>
 <div align="left">
