@@ -18,7 +18,7 @@
 <br>
 <br>
 <div align="right">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact" alt="BH Apps" />
 </div>
 <div align="left">
   
