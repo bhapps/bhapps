@@ -21,6 +21,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact" alt="BH Apps" />
 </div>
 <div align="left">
+
+</div>
+<br>
+
 ### Android
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
@@ -31,9 +35,6 @@
 | :---------------- | :----------------: | :---------------- |
 | [EasyLogisticsEstimate](https://github.com/bhapps/EasyLogisticsEstimate)|0.0.1|Standalone web-browser Tool used for estimating the logistical supply chain requirements|
 | [EnjinExportTool](https://github.com/AusTac/EnjinExportTool )|1.0.0|Desktop program to connect to the Enjin API and export data. |
-</div>
-<br>
-
 
 <!--
 <a href="https://github.com/bhapps/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=bhapps&repo=BHAppsMenus" alt="BHAppsMenus" /></a>
