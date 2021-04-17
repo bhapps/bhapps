@@ -14,7 +14,7 @@
 <br>
 <div align="right">
 <a href="https://github.com/bhapps">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=F9E04B&text_color=ffffff&icon_color=F9E04B&bg_color=1C4768&hide=contribs,prs" alt="BH Apps" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=F9E04B&text_color=ffffff&icon_color=F9E04B&bg_color=000000&hide=contribs,prs" alt="BH Apps" />
 </a>
 </div>
 
@@ -32,7 +32,7 @@
 </div>
 
 <!--
-<a href="https://github.com/bhapps/ZoomHelper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=bhapps&repo=BHAppsMenus" alt="BHAppsMenus" /></a>
+<a href="https://github.com/bhapps/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=bhapps&repo=BHAppsMenus" alt="BHAppsMenus" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
