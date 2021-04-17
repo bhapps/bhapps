@@ -31,8 +31,6 @@
 | :---------------- | :----------------: | :---------------- |
 | [EasyLogisticsEstimate](https://github.com/bhapps/EasyLogisticsEstimate)|0.0.1|Standalone web-browser Tool used for estimating the logistical supply chain requirements|
 | [EnjinExportTool](https://github.com/AusTac/EnjinExportTool )|1.0.0|Desktop program to connect to the Enjin API and export data. |
-
-<br>
 </div>
 <br>
 
