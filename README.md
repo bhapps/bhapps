@@ -1,11 +1,11 @@
 <div align="right">
 <a href="https://github.com/bhapps">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=1d6fcc&text_color=1d6fcc&icon_color=1d6fcc&bg_color=c70361&hide=contribs,prs" alt="BH Apps" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=cccccc&icon_color=cccccc&bg_color=c70361&hide=contribs,prs" alt="BH Apps" />
 </a>
 </div>
 <div align="left">
   <div align="center">
-   <img width="64" alt="BH Apps" src="https://github.com/bhapps/bhapps/blob/main/images/bhappslogo.png">
+   <img width="180" alt="BH Apps" src="https://github.com/bhapps/bhapps/blob/main/images/bhappslogo.png">
     <br>
     <b>BH Apps</b>
     <br>
