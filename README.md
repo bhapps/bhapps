@@ -1,4 +1,3 @@
-<div>
 <div align="right">
 <a href="https://github.com/bhapps">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=cccccc&icon_color=cccccc&bg_color=c70361&hide=contribs,prs" alt="BH Apps" />
@@ -46,5 +45,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</div>
