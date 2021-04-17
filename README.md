@@ -28,7 +28,7 @@
 ### Android
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
-| [BHAppsMenus](https://github.com/bhapps/BHAppsMenus)|0.0.14-alpha|Android Menus|
+| [BHAppsMenus](https://github.com/bhapps/BHAppsMenus)|0.0.14-alpha|Android BH Apps Menus has functions for fast prototyping and development of Android Applications that require features and functionality to build upon.|
 
 ### Others
 |Name|Version|Description|
