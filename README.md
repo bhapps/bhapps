@@ -1,3 +1,8 @@
+<div align="right">
+<a href="https://github.com/bhapps">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=ba025a&text_color=c70361&icon_color=c70361&bg_color=1d6fcc&hide=contribs,prs" alt="BH Apps" />
+</a>
+</div>
 <div align="left">
   <div align="center">
    <img width="64" alt="BH Apps" src="https://github.com/bhapps/bhapps/blob/main/images/bhappslogo_vertical.png">
@@ -10,13 +15,6 @@
     <a href="mailto:bhapps.developer@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
   </div>
 </div>
-
-<div align="right">
-<a href="https://github.com/bhapps">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhapps&show_icons=true&line_height=27&count_private=false&title_color=ba025a&text_color=c70361&icon_color=c70361&bg_color=1d6fcc&hide=contribs,prs" alt="BH Apps" />
-</a>
-</div>
-
 <br>
 
 ### Android
