@@ -5,7 +5,7 @@
 </div>
 <div align="left">
   <div align="center">
-   <img width="64" alt="BH Apps" src="https://github.com/bhapps/bhapps/blob/main/images/bhappslogo_vertical.png">
+   <img width="64" alt="BH Apps" src="https://github.com/bhapps/bhapps/blob/main/images/bhappslogo.png">
     <br>
     <b>BH Apps</b>
     <br>
