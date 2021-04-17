@@ -15,13 +15,13 @@
     <a href="mailto:bhapps.developer@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
 <br>
 <br>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact" alt="BH Apps" />
+    <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact" alt="BH Apps" />-->
 
   </div>
 </div>
 <br>
 <br>
-<div align="left">
+
 ### Android
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
@@ -32,7 +32,7 @@
 | :---------------- | :----------------: | :---------------- |
 | [EasyLogisticsEstimate](https://github.com/bhapps/EasyLogisticsEstimate)|0.0.1|Standalone web-browser Tool used for estimating the logistical supply chain requirements|
 | [EnjinExportTool](https://github.com/AusTac/EnjinExportTool )|1.0.0|Desktop program to connect to the Enjin API and export data. |
-</div>
+
 <!--
 <a href="https://github.com/bhapps/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=bhapps&repo=BHAppsMenus" alt="BHAppsMenus" /></a>
 
