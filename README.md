@@ -15,7 +15,7 @@
     <a href="mailto:bhapps.developer@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
 <br>
 <br>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact" alt="BH Apps" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact" alt="BH Apps" />
 
   </div>
 </div>
