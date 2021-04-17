@@ -13,16 +13,13 @@
     <a href="https://www.instagram.com/bhapps/"><img src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&flat-square&logoColor=white"></a>
     <a href="https://t.me/bhapps/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>
     <a href="mailto:bhapps.developer@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
+<br>
+<br>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact" alt="BH Apps" />
+
   </div>
 </div>
 <br>
-<br>
-<div align="right">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhapps&layout=compact" alt="BH Apps" />
-</div>
-<div align="left">
-
-</div>
 <br>
 
 ### Android
