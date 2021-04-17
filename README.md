@@ -31,7 +31,8 @@
 |Name|Version|Description|
 | :---------------- | :----------------: | :---------------- |
 | [EasyLogisticsEstimate](https://github.com/bhapps/EasyLogisticsEstimate)|0.0.1|Standalone web-browser Tool used for estimating the logistical supply chain requirements|
-| [EnjinExportTool](https://github.com/AusTac/EnjinExportTool )|1.0.0|Desktop program to connect to the Enjin API and export data. |
+| [EnjinExportTool](https://github.com/AusTac/EnjinExportTool)|1.0.0|Desktop program to connect to the Enjin API and export data. |
+| [AusTacQuick2Launch](https://github.com/AusTac/AusTacQuick2Launch)|-|Windows desktop application for launching selected mods & paramters for the Arma gaming series. Combined support for both Arma 2 Operation Arrowhead & Arma 3 with also on-the-fly repo & mods checking through the Play withSix application.|
 
 <!--
 <a href="https://github.com/bhapps/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=bhapps&repo=BHAppsMenus" alt="BHAppsMenus" /></a>
